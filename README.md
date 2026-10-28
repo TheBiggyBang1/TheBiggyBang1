@@ -10,7 +10,7 @@ I'm 25, and I'm the kind of person who can't use something without wanting to kn
 
 ### What I'm working on
 
-Right now I'm digging into how fine-tuning works on speech recognition (ASR) models. The goal is to build a model that can transcribe **Tunisian Arabic in real time**, with fast inference. Our dialect doesn't get much attention in speech tech, and I'd like to help change that.
+Right now I’m building autonomous agents that test websites the way a real attacker or a careless user would: hunting for broken flows, security vulnerabilities, and data leakage before they reach production. Most teams only catch these issues after something goes wrong, and I want to make that kind of testing continuous, automatic, and accessible to every developer.
 
 ### Tools I use
 
